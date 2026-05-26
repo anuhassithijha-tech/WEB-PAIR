@@ -8,7 +8,7 @@
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
     "express": "latest",
-    "pino": "latest",
-    "cors": "latest"
+    "cors": "latest",
+    "pino": "latest"
   }
 }
