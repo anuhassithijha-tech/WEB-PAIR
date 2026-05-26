@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://YOUR-BACKEND.onrender.com';
+const BACKEND_URL = 'https://yourapp.up.railway.app';
 
 async function generateCode() {
 
